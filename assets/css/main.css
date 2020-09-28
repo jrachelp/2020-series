@@ -50,9 +50,9 @@ img {
     }
     
     img:hover {
-        opacity: 0.75;
-        filter: alpha(opacity=60);
-        -webkit-transform:scale(1.25); /* or some other value */
-    transform:scale(1.25);
+        opacity: 0.85;
+        filter: alpha(opacity=80);
+        -webkit-transform:scale(1.35); 
+    transform:scale(1.35);
     }
  
